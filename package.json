@@ -1,0 +1,32 @@
+{
+  "name": "@expose-team/skills",
+  "version": "1.0.0",
+  "description": "Install the expose.team Agent Skill for Claude Code, ChatGPT, Cursor, Copilot, and 30+ AI agents",
+  "type": "module",
+  "bin": {
+    "expose-skills": "bin/install.mjs"
+  },
+  "files": [
+    "bin"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "agent-skill",
+    "agentskills",
+    "expose",
+    "osint",
+    "people-search",
+    "claude",
+    "chatgpt",
+    "cursor",
+    "copilot"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/exp0se-team/skills"
+  },
+  "homepage": "https://expose.team"
+}
