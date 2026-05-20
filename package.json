@@ -1,6 +1,6 @@
 {
   "name": "@expose-team/skills",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Install the expose.team Agent Skill for Claude Code, ChatGPT, Cursor, Copilot, and 30+ AI agents",
   "type": "module",
   "bin": {
